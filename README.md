@@ -1,4 +1,4 @@
-This is a Boking SAIG-Board Game (Front End) project. A project that made for practicing Next.js of SAIG laboratory KMITL.
+This is a Booking SAIG-Board Game (Front End) project. A project that made for practicing Next.js of SAIG laboratory KMITL.
 
 ## Feture:
 * Roles base
