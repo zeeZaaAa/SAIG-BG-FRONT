@@ -4,6 +4,7 @@ This is a Boking SAIG-Board Game (Front End) project. A project that made for pr
 * Roles base
 * Booking System
 * Search, Filter, Pagination
+* State management
 * Admin control panel
 
 ## Stack & language:
