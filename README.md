@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a Boking SAIG-Board Game (Front End) project. A project that made for practicing Next.js of SAIG laboratory KMITL.
+
+## Feture:
+* Roles base
+* Booking System
+* Search, Filter, Pagination
+* Admin control panel
+
+## stack and language:
+* Next.js
+* Tailwind css
+* Type Script
+
+## Prerequisites:
+* Node.js 
+* npm 
 
 ## Getting Started
 
